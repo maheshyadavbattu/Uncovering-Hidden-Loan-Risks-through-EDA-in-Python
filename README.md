@@ -82,7 +82,7 @@ Default Detective is a project that explores loan default risks through detailed
 - Optimize Portfolios: Approve more creditworthy customers while reducing default rates.
 
 - Strategic Decision-Making: Adjust policies, loan amounts, and interest rates based on evidence.
-
+## Reports visual ![screenshot(495)]()
  # Conclusion
 
 Default Detective turns raw loan application data into actionable intelligence. Through Python-based EDA, it equips financial institutions with the tools to balance growth and risk, ensuring smarter approvals, optimized lending strategies, and stronger credit risk management.
