@@ -27,12 +27,15 @@ Default Detective is a project that explores loan default risks through detailed
 # Data Overview
 
 ## The analysis is based on three datasets:
+## 📂 Dataset Links
+- Client details at loan application  [application_data.csv](https://drive.google.com/your-link-here)  (122 cols, 307,511 rows)
 
-- application_data.csv – Client details at loan application (122 cols, 307,511 rows)
+- Historical loan application statuses [previous_application.csv](https://drive.google.com/your-link-here)   (37 cols, 1,048,575 rows)
 
-- previous_application.csv – Historical loan application statuses (37 cols, 1,048,575 rows)
+- Data dictionary describing all variables [columns_description.csv](https://drive.google.com/your-link-here)  
 
-- columns_description.csv – Data dictionary describing all variables
+   
+
 
 # Methodology & Python Libraries
 
