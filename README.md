@@ -27,15 +27,12 @@ Default Detective is a project that explores loan default risks through detailed
 # Data Overview
 
 ## The analysis is based on three datasets:
-## 📂 Dataset Links
-- Client details at loan application  [application_data.csv](https://drive.google.com/your-link-here)  (122 cols, 307,511 rows)
+##  Dataset Links
+- Client details at loan application  [application_data.csv](https://drive.google.com/file/d/13i_G0fm9ffPo4gMKMqmyE6rMR4RoeY_h/view?usp=drivesdk)  (122 cols, 307,511 rows)
 
-- Historical loan application statuses [previous_application.csv](https://drive.google.com/your-link-here)   (37 cols, 1,048,575 rows)
+- Historical loan application statuses [previous_application.csv](https://drive.google.com/file/d/12QMftOLBkNuHwpjoxaJ2o52KtRii_y8N/view?usp=drivesdk)   (37 cols, 1,048,575 rows)
 
-- Data dictionary describing all variables [columns_description.csv](https://drive.google.com/your-link-here)  
-
-   
-
+- Data dictionary describing all variables [columns_description.csv](https://drive.google.com/file/d/1rxrBCbkxbKdzW9fGcmzianIVKgJzJpEm/view?usp=drivesdk) 
 
 # Methodology & Python Libraries
 
@@ -82,7 +79,7 @@ Default Detective is a project that explores loan default risks through detailed
 - Optimize Portfolios: Approve more creditworthy customers while reducing default rates.
 
 - Strategic Decision-Making: Adjust policies, loan amounts, and interest rates based on evidence.
-## Reports visual ![screenshot(495)]()
+## Reports visual ![screenshot(495)](https://drive.google.com/file/d/1WssZ_FBgNZ3zewetAqczbR7D8X3A6Jvv/view?usp=drivesdk)
  # Conclusion
 
 Default Detective turns raw loan application data into actionable intelligence. Through Python-based EDA, it equips financial institutions with the tools to balance growth and risk, ensuring smarter approvals, optimized lending strategies, and stronger credit risk management.
